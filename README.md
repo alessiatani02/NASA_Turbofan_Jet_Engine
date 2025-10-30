@@ -44,6 +44,9 @@ NASA_Turbofan_Jet_Engine/
 ├── REPORT.pdf
 └── README.md
 ```
+⚠️ **Note:** The original NASA C-MAPSS datasets are provided as a compressed archive (datasets.zip).
+Due to file size, GitHub does not display the archive online, but it can be downloaded directly from the repository.
+
 ## ⚙️ Installation
 
 To set up your environment and run this project, please follow these steps:
